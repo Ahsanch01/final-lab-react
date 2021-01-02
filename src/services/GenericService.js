@@ -1,5 +1,5 @@
 import axios from "axios";
-axios.defaults.baseURL="http://localhost:3100/app/";
+axios.defaults.baseURL="https://final-lab-app.herokuapp.com/app/";
 axios.defaults.headers.common["x-auth-token"]=localStorage.getItem("token");
 class GenericService{
     constructor(){
