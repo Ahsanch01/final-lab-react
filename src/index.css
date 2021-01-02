@@ -1,0 +1,20 @@
+
+.green{
+  color: green;
+}
+.orange{
+  color: orange;
+}
+ul li{
+  display: inline;
+  
+  padding-left: 1rem;
+  color: black;
+  
+}
+.white{
+ color: white;
+ font-size: 25px;
+ text-decoration: none;
+}
+
